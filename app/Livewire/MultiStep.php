@@ -6,7 +6,7 @@ use Livewire\Component;
 
 class MultiStep extends Component
 {
-    public $currentStep=5;
+    public $currentStep=1;
     public $total_steps=5;
     public $job_title;
     public $skills;
